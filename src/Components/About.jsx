@@ -24,17 +24,17 @@ const imageAltText = " fairylights sparkling.";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Quaid-e-Awam Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a student specializing in UI/UX at Quaid-e-Awam Technical University. I find pleasure in crafting distinctive and minimalistic user interfaces using creative approaches.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Digital marketing",
   "User experience",
   "Inclusive design",
-  "Focus group testing",
+  "SEO optimization",
   "Mobile user interfaces",
   "Graphic design",
 ];
