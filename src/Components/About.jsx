@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/fairylights on books.jpg";
+import image from "../images/fairylights sparks.jpg";
 
-const imageAltText = "fairylights on books in a library.";
+const imageAltText = " fairylights sparkling.";
 
 /**
  * Sort description that expands on your title on the Home component.
